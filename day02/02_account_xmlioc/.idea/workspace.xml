@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67e12cbb-7503-4956-9d66-7cc3f44c08c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/.sdkman/candidates/maven/current/" />
+        <option name="mavenHome" value="$USER_HOME$/.sdkman/candidates/maven/current/" />
+        <option name="userSettingsFile" value="$USER_HOME$/.sdkman/candidates/maven/3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ciH87kCgZEzdQX5vnt7NJ7UKDa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2552719" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/allen" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/allen/service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest.testSave">
+    <configuration name="AccountServiceTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02_account_xmlioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.allen.test" />
+      <option name="MAIN_CLASS_NAME" value="com.allen.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02_account_xmlioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.allen.test" />
+      <option name="MAIN_CLASS_NAME" value="com.allen.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest.testSave" />
+        <item itemvalue="JUnit.AccountServiceTest.testFindAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e12cbb-7503-4956-9d66-7cc3f44c08c6" name="Default Changelist" comment="" />
+      <created>1591004331240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591004331240</updated>
+      <workItem from="1591004332968" duration="1161000" />
+      <workItem from="1591060183221" duration="103000" />
+      <workItem from="1591084028286" duration="1183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="87" key="#Project_Structure" timestamp="1591085336442">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="320" y="87" key="#Project_Structure/0.23.1440.797@0.23.1440.797" timestamp="1591085336442" />
+    <state x="533" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1591005122413">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="533" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1591005122413" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1591087177566">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1591087177566" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1591087177564">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1591087177564" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1591087177564">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1591087177564" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1591087177565">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1591087177565" />
+    <state x="413" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1591060266785">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="413" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1591060266785" />
+  </component>
+</project>
